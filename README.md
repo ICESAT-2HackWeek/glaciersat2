@@ -4,7 +4,7 @@
 
 ## Collaborators on this project
 
-Kristin Schild
+Kristin Schild<BR>
 Seth Campbell
 Martin Truffer (project lead)
 Caitlyn Florentine
