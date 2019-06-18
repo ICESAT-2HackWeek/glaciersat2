@@ -5,11 +5,11 @@
 ## Collaborators on this project
 
 Kristin Schild<BR>
-Seth Campbell
-Martin Truffer (project lead)
-Caitlyn Florentine
-Rob Fatland (data science lead)
-Ben Smith (data science co-lead)
+Seth Campbell<BR>
+Martin Truffer (project lead)<BR>
+Caitlyn Florentine<BR>
+Rob Fatland (data science lead)<BR>
+Ben Smith (data science co-lead)<BR>
 
 We will explore ICESat-2 data over the JIF, compare to Arctic DEM. The general goal is to learn the tools for downloading
 and interpreting ICESat-2 data. We will determine the potential of ICESAT-2 data to constrain surface processes, for example, 
