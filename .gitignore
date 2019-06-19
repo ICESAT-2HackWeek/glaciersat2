@@ -76,3 +76,4 @@ Thumbs.db
 # Jupyter Checkpoints #
 #######################
 .ipynb_checkpoints
+Untitled*.ipynb
